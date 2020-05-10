@@ -1,5 +1,5 @@
-# Snow-Landing (https://snowlanding.netlify.app/)
+# Snow-Landing
 
-Snowfall Landing | HTML &amp; CSS Responsive
+Snowfall Landing | HTML &amp; CSS Responsive (https://snowlanding.netlify.app/)
 
 ![](Preview.png)
