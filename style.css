@@ -3,6 +3,8 @@
     ~ Developed By: Emil Barranco | Web Developer & Technologist
     ~ Table of Content:
         - Navigation Bar
+        - Content
+        - Media Queries
 
 * ################################### */
 
@@ -164,6 +166,7 @@ ul li ion-icon {
 }
 
 @media only screen and (min-width: 620px) {
+    /* No Content Required Here */
 }
 
 @media only screen and (max-width: 960px) {
